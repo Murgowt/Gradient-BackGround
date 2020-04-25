@@ -1,0 +1,28 @@
+#BodyDIV
+{
+	background: linear-gradient(to right,#00ffff,#ffff00);
+}
+.Title	
+{
+	
+    background: transparent;
+	
+}
+
+.main_content
+{
+	position: fixed; 
+    left: 40%;
+    background: transparent;
+	
+}
+
+.Result
+{
+	background: transparent;
+	position: fixed;
+	margin: 0px;
+	padding: 0px;
+	border : 0px; 
+	
+}
